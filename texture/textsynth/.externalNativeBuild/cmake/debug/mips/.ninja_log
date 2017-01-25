@@ -1,0 +1,5 @@
+# ninja log v5
+0	4127	0	CMakeFiles/resynth.dir/resynth.c.o	667ca117d2287fc5
+4127	4140	0	/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/cmake/debug/obj/mips/libresynth.so	1449a3df21e8b7d7
+0	5987	0	CMakeFiles/resynth.dir/resynth.c.o	667ca117d2287fc5
+5988	6002	0	/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/cmake/debug/obj/mips/libresynth.so	1449a3df21e8b7d7

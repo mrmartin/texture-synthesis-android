@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    TiledBitmapView - A library providing a view component rendered dynamically with tile data
+    Copyright 2013 Barry O'Neill (http://meep.nologin.net/)
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<!--
+ Version history (try to keep synced with versions of library):
+           1 (1.0) - everything previous to the first github push
+           2 (1.2) - license applied, cleaned up and commented, first 'stable' version
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.nologin.meep.tbv"
+    android:versionCode="2"
+    android:versionName="1.2" >
+    <!--
+       TiledBitmapView currently support applications from API Level: 10 (2.3.3/GINGERBREAD_MR1) upwards.
+
+       Unless you use manifest merging (eg manifestmerger.enabled=true in ant) while building, this 'uses-sdk'
+       declaration has no effect and exists solely as a reminder, as well as for IDE hints.
+    -->
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="17" />
+
+    <application>
+
+        <!--
+            This is a android library project, and doesn't configure any applications.
+            Ensure 'Is Library' is checked in the 'Android' section of your IDE's project config.
+        -->
+    </application>
+
+</manifest>

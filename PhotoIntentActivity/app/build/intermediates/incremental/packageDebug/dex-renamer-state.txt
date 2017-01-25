@@ -1,0 +1,7 @@
+#Fri Nov 18 15:34:07 GMT 2016
+base.0=/home/martin/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_00af13ef5828d5a49d153552c6b0d0b3ae3b5875
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/martin/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5feb63cfdefcd9e6b4cb8395f25d7337d8bc101a/classes.dex
+base.1=/home/martin/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5feb63cfdefcd9e6b4cb8395f25d7337d8bc101a
+file.0=/home/martin/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_00af13ef5828d5a49d153552c6b0d0b3ae3b5875/classes.dex

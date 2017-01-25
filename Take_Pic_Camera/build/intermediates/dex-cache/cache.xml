@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/martin/AndroidStudioProjects/Take_Pic_Camera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="048a77e78c7c167d086c84e59d3337099f10684b">
+        <dex dex="/home/martin/AndroidStudioProjects/Take_Pic_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9448282099ce0d7d1000f9d401353f224c6a3fb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/AndroidStudioProjects/Take_Pic_Camera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0ee54e618581d192f4d6f3bdbf3f3565127b121">
+        <dex dex="/home/martin/AndroidStudioProjects/Take_Pic_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_608a719936f947549c088d3a2963304920097d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/martin/AndroidStudioProjects/Take_Pic_Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_b0f7ce9a08a14345ad15086eede31498bbc102ea/classes.dex" />
+    </item>
+
+</items>

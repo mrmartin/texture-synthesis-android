@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="debug_box_bg">@android:color/black</color>
+    <color name="debug_box_text">@android:color/white</color>
+    <color name="debug_box_text_error">#FF0000</color>
+    <color name="debug_tile_border">#CCCCCC</color>
+    <color name="debug_tile_text">@android:color/white</color>
+    <color name="genericprovider_tile_bg">#333333</color>
+    <color name="genericprovider_tile_circle">#FFFF00</color>
+    <color name="main_background_color">@android:color/black</color>
+    <string name="app_name">Texture Synthesis App</string>
+    <string name="button_about">\?</string>
+    <string name="button_go_to_origin">(0,0)</string>
+    <string name="button_toggle_debugoff">No Debug</string>
+    <string name="button_toggle_debugon">Debug</string>
+    <string name="button_toggle_providercustom">Photo</string>
+    <string name="button_toggle_providerdefault">Generic</string>
+    <string name="debug_warning">Please Note: Debug mode has a negative impact on performance</string>
+    <string name="dialog_about_text">This app is demonstation of a simple tile provider using the TileBitmapView library, published at:\n\nhttps://github.com/barryoneill/TiledBitmapView\n\nAuthor: Barry O\'Neill, who accepts no responsibility whatsoever. *kaboom*</string>
+    <string name="dialog_about_title">What\'s This?</string>
+    <string name="genericprovider_tilemsg_line1">No Provider</string>
+    <string name="genericprovider_tilemsg_line2">Registered</string>
+    <string name="synthesis_warning">Seamless synthesis is now being performed</string>
+</resources>

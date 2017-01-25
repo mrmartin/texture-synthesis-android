@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/home/martin/AndroidStudioProjects/demo/demo/build/intermediates/exploded-aar/demo/library/unspecified/assets"/></dataSet><dataSet config="main"><source path="/home/martin/AndroidStudioProjects/demo/demo/src/main/assets"/><source path="/home/martin/AndroidStudioProjects/demo/demo/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/martin/AndroidStudioProjects/demo/demo/src/debug/assets"/></dataSet></merger>

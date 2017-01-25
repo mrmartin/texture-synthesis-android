@@ -1,0 +1,3 @@
+/home/martin/AndroidStudioProjects/texture/textsynth/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/martin/AndroidStudioProjects/texture/textsynth/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/martin/AndroidStudioProjects/texture/textsynth/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/resynth.dir

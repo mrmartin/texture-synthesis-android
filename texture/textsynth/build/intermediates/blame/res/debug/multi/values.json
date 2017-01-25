@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 61,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 61,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 54,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 54,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 51,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 51,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 62,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 62,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 57,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 57,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 61,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 61,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 68,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 68,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 54,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 789,
+                        "endColumn": 54,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 46,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1219,
+                        "endColumn": 46,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 53,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 53,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 59,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 59,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 59,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 970,
+                        "endColumn": 59,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 62,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 62,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 65,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 65,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 71,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 71,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 230,
+                    "endOffset": 1239
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endColumn": 230,
+                        "endOffset": 1554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1244,
+                    "endColumn": 60,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 60,
+                        "endOffset": 1323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 69,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 69,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 68,
+                    "endOffset": 1439
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 68,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1444,
+                    "endColumn": 93,
+                    "endOffset": 1533
+                },
+                "from": {
+                    "file": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1560,
+                        "endColumn": 93,
+                        "endOffset": 1649
+                    }
+                }
+            }
+        ]
+    }
+]

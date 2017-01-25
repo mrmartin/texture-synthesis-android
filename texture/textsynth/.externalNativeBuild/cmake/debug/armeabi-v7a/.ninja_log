@@ -1,0 +1,5 @@
+# ninja log v5
+0	4032	0	CMakeFiles/resynth.dir/resynth.c.o	9718cf4ae8a45a1a
+4032	4042	0	/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/cmake/debug/obj/armeabi-v7a/libresynth.so	db890392188f37c1
+0	3832	0	CMakeFiles/resynth.dir/resynth.c.o	9718cf4ae8a45a1a
+3832	3842	0	/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/cmake/debug/obj/armeabi-v7a/libresynth.so	db890392188f37c1

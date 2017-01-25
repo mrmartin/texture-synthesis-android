@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/exploded-aar/texture/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2863a8dc01830eb703be9b6e8002ac2c9e0be17c">
+        <dex dex="/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/pre-dexed/debug/texture-library-unspecified_d8759db5cc5e51e5c8a94e0870fcd7617af5eb41.jar" />
+    </item>
+
+</items>

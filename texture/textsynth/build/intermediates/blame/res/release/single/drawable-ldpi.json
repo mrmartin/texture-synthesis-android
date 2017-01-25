@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/res/merged/release/drawable-ldpi/icon.png",
+        "source": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/res/merged/release/drawable-ldpi/tbvdemo_launcher.png",
+        "source": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/drawable-ldpi/tbvdemo_launcher.png"
+    }
+]

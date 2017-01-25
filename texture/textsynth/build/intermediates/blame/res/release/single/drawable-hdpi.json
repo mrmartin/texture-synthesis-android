@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png",
+        "source": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/res/merged/release/drawable-hdpi/icon.png",
+        "source": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/martin/AndroidStudioProjects/texture/textsynth/build/intermediates/res/merged/release/drawable-hdpi/tbvdemo_launcher.png",
+        "source": "/home/martin/AndroidStudioProjects/texture/textsynth/src/main/res/drawable-hdpi/tbvdemo_launcher.png"
+    }
+]
