@@ -1,7 +1,7 @@
 # texture-synthesis-android
 Texture Synthesis Android App using resynthesizer
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot_small.png)
 
 This project combines [notwa/resynth](https://github.com/notwa/resynth) with [barryoneill/TiledBitmapView](https://github.com/barryoneill/TiledBitmapView) to allow texture synthesis on mobile devices.
 
